@@ -1,0 +1,2 @@
+# staticvariable
+staticvariable in Python
